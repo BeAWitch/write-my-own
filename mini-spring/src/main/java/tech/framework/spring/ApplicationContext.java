@@ -1,7 +1,7 @@
 package tech.framework.spring;
 
-import tech.framework.spring.Annotation.Autowired;
-import tech.framework.spring.Annotation.Component;
+import tech.framework.spring.annotation.Autowired;
+import tech.framework.spring.annotation.Component;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,10 +1,9 @@
 package tech.framework.spring;
 
-import tech.framework.spring.Annotation.Autowired;
-import tech.framework.spring.Annotation.Component;
-import tech.framework.spring.Annotation.PostConstruct;
+import tech.framework.spring.annotation.Autowired;
+import tech.framework.spring.annotation.Component;
+import tech.framework.spring.annotation.PostConstruct;
 
-import java.lang.reflect.Array;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
