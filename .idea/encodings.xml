@@ -3,6 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/mini-jvm/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mini-jvm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mini-lock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mini-lock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mini-schedule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mini-schedule/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mini-spring/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mini-spring/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mini-threadpool/src/main/java" charset="UTF-8" />
